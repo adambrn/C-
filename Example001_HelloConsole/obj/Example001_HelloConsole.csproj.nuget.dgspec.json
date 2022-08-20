@@ -1,24 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Documents\\Учеба\\C#\\Lesson1\\Example001_HelloConsole\\Example001_HelloConsole.csproj": {}
+    "C:\\Users\\user\\Documents\\GeekBrains\\C#\\c_sharp\\Example001_HelloConsole\\Example001_HelloConsole.csproj": {}
   },
   "projects": {
-    "D:\\Documents\\Учеба\\C#\\Lesson1\\Example001_HelloConsole\\Example001_HelloConsole.csproj": {
+    "C:\\Users\\user\\Documents\\GeekBrains\\C#\\c_sharp\\Example001_HelloConsole\\Example001_HelloConsole.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Documents\\Учеба\\C#\\Lesson1\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Documents\\GeekBrains\\C#\\c_sharp\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
         "projectName": "Example001_HelloConsole",
-        "projectPath": "D:\\Documents\\Учеба\\C#\\Lesson1\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
-        "packagesPath": "C:\\Users\\a.peremyshlennikov\\.nuget\\packages\\",
-        "outputPath": "D:\\Documents\\Учеба\\C#\\Lesson1\\Example001_HelloConsole\\obj\\",
+        "projectPath": "C:\\Users\\user\\Documents\\GeekBrains\\C#\\c_sharp\\Example001_HelloConsole\\Example001_HelloConsole.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\user\\Documents\\GeekBrains\\C#\\c_sharp\\Example001_HelloConsole\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\a.peremyshlennikov\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
